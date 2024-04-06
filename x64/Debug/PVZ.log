@@ -1,0 +1,86 @@
+﻿  main.cpp
+E:\c++项目\PVZ\PVZ\Plant.h(23,46): warning C4042: “status”: 有坏的存储类
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Plant.h(24,43): warning C4042: “status”: 有坏的存储类
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Plant.h(46,52): warning C4042: “status”: 有坏的存储类
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Plant.h(55,49): warning C4042: “status”: 有坏的存储类
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Sunshine.h(69,36): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Sunshine.h(71,18): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Sunshine.h(72,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Sunshine.h(94,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Sunshine.h(94,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Sunshine.h(95,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Sunshine.h(95,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Sunshine.h(97,23): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Sunshine.h(156,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Sunshine.h(157,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Sunshine.h(167,20): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Sunshine.h(169,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Sunshine.h(183,46): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Sunshine.h(183,29): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\UI.h(77,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\UI.h(77,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\UI.h(93,38): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\UI.h(93,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\UI.h(107,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\UI.h(107,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Init.h(54,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Init.h(87,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Init.h(90,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\c++项目\PVZ\PVZ\Init.h(89,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+  PVZ.vcxproj -> E:\c++项目\PVZ\x64\Debug\PVZ.exe
